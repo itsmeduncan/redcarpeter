@@ -2,6 +2,10 @@
 
 Write out Markdown using Redcarpet
 
+== Build
+
+"!http://travis-ci.org/itsmeduncan/redcarpeter.png!":http://travis-ci.org/itsmeduncan/redcarpeter
+
 == Usage
 
     redcarpeter README.md #=> README.html
